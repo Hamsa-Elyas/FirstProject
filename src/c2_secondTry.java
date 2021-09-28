@@ -3,5 +3,6 @@ public class c2_secondTry {
         System.out.println("This will the second class");
         System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
         System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%");
+        System.out.println("also adding a line to be commited");
     }
 }
